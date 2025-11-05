@@ -54,7 +54,7 @@ export default function Generator() {
               className="w-full h-16 text-lg bg-white text-black hover:bg-gray-100 font-bold premium-button border-2 border-white shadow-xl shadow-white/40 rounded-xl"
               onClick={() => {
                 playClickSound();
-                window.open('PLACEHOLDER_MAIN_SITE_URL', '_blank');
+                window.open('https://immortal.rs/?code=NzA3Mzc1MjExMDU4MzA1NzIwOQ==', '_blank');
               }}
             >
               STANDARD OPTION
