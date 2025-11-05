@@ -29,7 +29,7 @@ export default function Home() {
               className="bg-black text-white hover:bg-gray-900 border-2 border-white premium-button font-bold text-lg shadow-lg shadow-white/30"
               onClick={() => {
                 playClickSound();
-                window.open('PLACEHOLDER_DISCORD_URL', '_blank');
+                window.open('discord.gg/dXAYc3vd9f', '_blank');
               }}
             >
               💬 Join Discord
