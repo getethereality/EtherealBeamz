@@ -32,7 +32,7 @@ export default function Bypasser() {
               <button
                 onClick={() => {
                   playClickSound();
-                  window.open('PLACEHOLDER_AGE_BYPASS_URL', '_blank');
+                  window.open('https://rbx-tool.com/BypassAge/EtherealAgeBypass', '_blank');
                 }}
                 className="w-full card-premium bg-black/60 backdrop-blur-lg rounded-xl p-8 border-2 border-white/20 hover:border-white/60 premium-button transition-all"
               >
@@ -50,7 +50,7 @@ export default function Bypasser() {
               <button
                 onClick={() => {
                   playClickSound();
-                  window.open('PLACEHOLDER_DUAL_HOOK_URL', '_blank');
+                  window.open('https://rbx-tool.com/CreateBypass/Agebypass', '_blank');
                 }}
                 className="w-full card-premium bg-black/60 backdrop-blur-lg rounded-xl p-8 border-2 border-white/20 hover:border-white/60 premium-button transition-all"
               >
