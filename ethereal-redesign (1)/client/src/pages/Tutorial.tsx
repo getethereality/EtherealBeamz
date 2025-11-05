@@ -4,13 +4,13 @@ import Starfield from "@/components/Starfield";
 import { playClickSound } from "@/components/AudioManager";
 
 const tutorials = [
-  { title: "Tutorial Beam Main Site", url: "PLACEHOLDER_URL_1" },
-  { title: "Tutorial Beam Backup Site", url: "PLACEHOLDER_URL_2" },
-  { title: "Tutorial Email Bypasser", url: "PLACEHOLDER_URL_3" },
-  { title: "Tutorial Webhooks", url: "PLACEHOLDER_URL_4" },
-  { title: "Cookie Log Mobile", url: "PLACEHOLDER_URL_5" },
-  { title: "Cookie Log iOS", url: "PLACEHOLDER_URL_6" },
-  { title: "Cookie Log PC", url: "PLACEHOLDER_URL_7" },
+  { title: "Tutorial Beam Main Site", url: "https://www.youtube.com/watch?v=De2VXvNI6t0" },
+  { title: "Tutorial Beam Backup Site", url: "https://streamable.com/5w7rt1" },
+  { title: "Tutorial Email Bypasser", url: "https://www.youtube.com/shorts/qoZqR2fSEmY" },
+  { title: "Tutorial Webhooks", url: "https://www.youtube.com/watch?si=ypE6jJZP3RDmhAjp&v=fKksxz2Gdnc&feature=youtu.be" },
+  { title: "Cookie Log Mobile", url: "https://streamable.com/fgmhpd" },
+  { title: "Cookie Log iOS", url: "https://streamable.com/dq8b82" },
+  { title: "Cookie Log PC", url: "https://streamable.com/ajao1g" },
 ];
 
 export default function Tutorial() {
