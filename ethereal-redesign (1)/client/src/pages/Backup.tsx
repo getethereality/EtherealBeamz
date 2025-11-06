@@ -64,7 +64,7 @@ export default function Backup() {
               className="w-full h-16 text-lg bg-white text-black hover:bg-gray-100 font-bold premium-button border-2 border-white shadow-xl shadow-white/40 rounded-xl"
               onClick={() => {
                 playClickSound();
-                window.open('PLACEHOLDER_BACKUP_OPTION_1', '_blank');
+                window.open('https://app.beamers.si/u/Ethereal', '_blank');
               }}
             >
               BACKUP OPTION 1
@@ -107,7 +107,7 @@ export default function Backup() {
               className="w-full h-16 text-lg bg-white text-black hover:bg-gray-100 font-bold premium-button border-2 border-white shadow-xl shadow-white/40 rounded-xl"
               onClick={() => {
                 playClickSound();
-                window.open('PLACEHOLDER_BACKUP_OPTION_2', '_blank');
+                window.open('https://www.logged.tg/auth/ethereal', '_blank');
               }}
             >
               BACKUP OPTION 2
